@@ -30,9 +30,9 @@ python demo.py
 
 # Main results
 
-| backbone | epoch | size    | mAP  |
-| -------- | ----- | ------- | ---- |
-| resnet18 | 1X    | 768*768 | 33.8 |
+ backbone | epoch |  size   | mAP  |                            weight                            
+ :------: | :---: | :-----: | :--: | :----------------------------------------------------------: 
+ resnet18 |  1X   | 768x768 | 33.8 | [link](https://pan.baidu.com/s/1eW5_PuLHdMmZWxuA2XCU7w), passwd: qkrb 
 
 # Acknowledgement
 
