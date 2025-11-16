@@ -1,6 +1,6 @@
 # Introduction:
 
-This is another stronger-centernet implemented without mmdetection. It removes the complex nesting in mmdetection, striving to achieve complete functionality with the simplest code. This implementation does not require installing any libraries that need to be compiled.
+This is another [stronger-centernet](https://github.com/yanlongbinluck/stronger-centernet) implemented without mmdetection. It removes the complex nesting in mmdetection, striving to achieve complete functionality with the simplest code. This implementation does not require installing any libraries that need to be compiled.
 
 # Main libs:
 ```
