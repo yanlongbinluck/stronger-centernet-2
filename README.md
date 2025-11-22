@@ -6,6 +6,7 @@ This is another [stronger-centernet](https://github.com/yanlongbinluck/stronger-
 ```
 torch==1.8.1+cu111
 mmcv-full==1.4.2
+numpy==1.24.4
 ```
 
 # Run commands:
